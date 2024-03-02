@@ -1,0 +1,10 @@
+{
+  "courses": [
+    {
+      "id": 2,
+      "title": "N4",
+      "level": "Beginner",
+      "fee": "14000"
+    }
+  ]
+}
